@@ -1,0 +1,15 @@
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blue;
+  color: aliceblue;
+}
+.btn {
+  cursor: pointer;
+  background-color: aqua;
+  color: black;
+  width: 60px;
+  margin: 0 auto;
+  gap: 20px;
+}
